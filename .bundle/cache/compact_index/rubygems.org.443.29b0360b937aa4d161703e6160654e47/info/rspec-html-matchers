@@ -1,0 +1,22 @@
+---
+0.2.2 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:ebbcd5db0b648e753e3f05dc5d86224d50cfbc1e1a2ed926127cab5087d79d70
+0.2.3 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:9b40ba6b57ff6792db25ada1e2faa7eeb4eb008bc1c0833f20db98e35ae727f4
+0.2.4 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:998ec2013724b828876df2611ebec25ec4e5caaeccf03f931a52cc88225c8635
+0.3.4 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:3dd834ae6391417288ee4ec44cea1653a36e6b1136828e5565be93043977cf7f
+0.3.5 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:0e08c7ac7681e749429800574aab47b7b87a5ba8aacc8a591a1431a1324d6971
+0.4.0 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:8273018f4703c737176e544aa1c9ae0c9db64a35b2cea610988c0814a48e4994
+0.4.1 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:45847c9f80ae1044a3b58d775a16ada0ce2ac1d2c9ef21db25d401d845fb290e
+0.4.2 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:3e2b30de576d1bd245a705238a36f7023ef508520221713f92db6ed214bf6881
+0.4.3 nokogiri:>= 1.4.4,rspec:>= 2.0.0|checksum:4bbe1a5259436b22b1a28b342314f357a8eb33322fcce83b06e5f18617b730f4
+0.4.4 nokogiri:~> 1,rspec:>= 2.11.0&~> 2|checksum:f18d85eec68fe21e2550195164f8f1e7d6116d1c81cf91012d4e9fc90a95741f
+0.5.0 nokogiri:~> 1,rspec:>= 2.11.0&~> 2|checksum:9b617bc1d2cd0558d845c46d8d4690b0d1f3bf841a50b81511703330f7cf0f91
+0.6.0 nokogiri:~> 1,rspec:>= 3.0.0.rc1|checksum:9979a850bce8a06cb9cfd92f68144291ab1e526bf4cfc7162020fcb973f5df7d
+0.6.1 nokogiri:~> 1,rspec:~> 3|checksum:39fe5a51c73c450c45bb012928130473beb0260c28f4f9969fff839dd4d32a3b
+0.7.0 nokogiri:~> 1,rspec:~> 3|checksum:2999535c62cdbdb3b03a3abfb370179bd0347946d626d45736b4027c51e8d70c
+0.7.1 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:275be25f35e96c0be2f925166456c8b6270d9b7a1be7cdb74edafea361347aca
+0.7.2 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:71787e46200570dcb7272d11023a2cb510b590ef2672cfba47f6be48ffb6e3ae
+0.7.3 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:e2fcdbf5b61972ec3d0f32c423fd7842a1253efb62affdff2d4c20824fd751a9
+0.8.0 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:7188c6941a1171b2655107b6e8661d3acfdaff86f8e12c9525b0b3a0fe09cee2
+0.8.1 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:4d650e176489db82ca14f7c7b2dda995c5bf05b59e5973edc772fd417c892b1e
+0.9.0 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:1e0e21c99396a404e9d08431823bee739a1b44458cfc43b18ef79177abd1d9c6,ruby:>= 2.1
+0.9.1 nokogiri:~> 1,rspec:< 4&>= 3.0.0.a|checksum:387cffee16f3309ef3ada69e125a7d7897dc6995674cb0bdc70e4b64fbad876d,ruby:>= 1.8.7

@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+f4dab504fe515c85add4987383e93a1e23c2da0f refs/heads/constant-folding
+c9895d03f0f22144f95cde122784623da5209c41 refs/heads/gh-pages
+aa86f1bffe4d4612073fb2b97b7368ffd64552cc refs/heads/master
+6f3ed745eff4235b33fb60d61f2346357363d3b9 refs/heads/update-esprima
+6f3ed745eff4235b33fb60d61f2346357363d3b9 refs/pull/1/head
+9a4cb73bb5a48f0cd4c550b03fa5d4f757b73048 refs/pull/1/merge
+adb93fd8fc6d3c6debb83dc9f408921cccd171a8 refs/tags/0.1.3
